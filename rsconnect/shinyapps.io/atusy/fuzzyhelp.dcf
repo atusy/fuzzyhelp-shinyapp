@@ -1,0 +1,10 @@
+name: fuzzyhelp
+title:
+username: atusy
+account: atusy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11954510
+bundleId: 8587357
+url: https://atusy.shinyapps.io/fuzzyhelp/
+version: 1
